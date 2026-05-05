@@ -47,6 +47,7 @@ This project explores how RAG systems can improve music recommendation by incorp
 
 instead of relying primarily on listening history or popularity signals.
 
+## More
 For more details refer to the official reports:
 - **report_short_version** *(Full Master Thesis)*
 - **report_long_version** *(Paper Submission)*
