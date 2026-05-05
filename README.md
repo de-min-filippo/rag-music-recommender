@@ -10,7 +10,6 @@ The project introduces a new multimodal dataset of **220k+ songs** built from:
 The system retrieves emotionally aligned songs from lyric embeddings and uses an LLM to generate grounded playlist recommendations with short contextual explanations.
 
 ## Overview
-
 The recommendation pipeline combines:
 - **BGE-M3 embeddings** for semantic lyric retrieval
 - **FAISS** vector search
@@ -47,3 +46,7 @@ This project explores how RAG systems can improve music recommendation by incorp
 - contextual reasoning
 
 instead of relying primarily on listening history or popularity signals.
+---------  
+For more details refer to the official reports:
+- **report_short_version** *(Full Master Thesis)*
+- **report_long_version** *(Paper Submission)*
